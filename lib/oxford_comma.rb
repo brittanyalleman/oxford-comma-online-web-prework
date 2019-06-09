@@ -5,6 +5,6 @@ end
 def
   array.join(,)
 end
-def 
+def
 array.insert(-1, 'and')
 end
