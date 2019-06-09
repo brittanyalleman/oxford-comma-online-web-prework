@@ -3,7 +3,7 @@ array.join
 end
 
 def
-  array.join(",")
+  array.join(,)
 end
 def 
 array.insert(-1, 'and')
