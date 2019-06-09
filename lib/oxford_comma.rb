@@ -1,8 +1,8 @@
 def oxford_comma(array)
 array.join
-end 
+end
 
-def 
+def
   array.join(",")
 end
 def 
